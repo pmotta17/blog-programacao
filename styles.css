@@ -1,0 +1,175 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+header {
+    text-align: center;
+    background-color: rgb(150, 93, 202);
+    color: rgb(16, 16, 112);
+}
+
+#capa{
+    height: 1000px;
+    background-image: url(./imagens/cabecaprogramando.webp);
+    background-position: center;
+    background-size: cover;
+}
+
+#capa h2{
+    color: white;
+    padding-top: 50px;
+    height: 50px;
+    width: 500px;
+    font-size: 30px;
+}
+
+.artigos{
+    width: 800px;
+    height: 100px;
+    background-color: rgb(150, 93, 202);
+    border: solid;
+    border-radius: 50px;
+    margin-left: 500px;
+}
+
+.titulo{
+    padding-top: 20px;
+    text-align: center;
+    font-size: 30px;
+    color: rgb(16, 16, 112);
+}
+
+.fundo{
+    background-color: rgb(206, 204, 204);
+    background-image: url(./imagens/computadorduvidas.png);
+    background-position: center;
+    background-size: contain;
+}
+
+.resumo{
+    color: rgb(206, 204, 204);
+    font-size: 15px;
+    margin: 20px;
+}
+
+.link{
+    color: rgb(18, 18, 19);
+    text-decoration: none;
+    margin: 20px;
+}
+
+#tport{
+    text-align: center;
+    color: blue;
+    font-size: 50px;
+}
+
+#sport{
+    background-color: rgb(163, 163, 155);
+}
+
+#sport div p{
+    font-size: 25px;
+    color: yellow;
+}
+
+#sport div img{
+    margin-left: 500px;
+}
+
+#final{
+    background-color: rgb(209, 207, 204);
+}
+
+#duvidas{
+    font-size: 25px;
+}
+
+#final form input{
+    width: 800px;
+    height: 5px;
+    padding: 16px;
+    margin-bottom: 32px;
+    font-size: 32px;
+    outline: none;
+    border: 0;
+    border-radius: 8px;
+}
+
+#final form button{
+    background-color: #243377;
+    padding: 12px 32px;
+    border: 0;
+    border-radius: 4px;
+    font-size: 18px;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+#thtml{
+    text-align: center;
+    color: blue;
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+
+.divhtml{
+    background-color: white;
+}
+
+.textohtml{
+    font-size: 35px;
+}
+
+.listas{
+    height: 100px;
+    width: 300px;
+    margin-left: 100px;
+    border: solid;
+    padding-top: 10px;
+    padding-left: 20px;
+    border-radius: 10px;
+}
+
+li{
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+ol ul{
+    padding-top: 50px;
+}
+
+#tcss{
+    text-align: center;
+    color: blue;
+    font-size: 50px;
+}
+
+#bgc{
+    font-size: 30px;
+}
+
+.tbgc{
+    font-size: 20px;
+    padding-top: 20px;
+}
+
+#exemplo{
+    border: solid;
+    margin-left: 30px;
+    width: 250px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 20px;
+    border-color: blueviolet;
+
+}
+
+
+
